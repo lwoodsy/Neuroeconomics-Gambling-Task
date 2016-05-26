@@ -1,118 +1,52 @@
+'Copy and paste this script into the user defined script window of E-prime to create global variables (you can access this window with Alt+5)
+
 'Create the nTrialnumber variable
 Dim nTrialNumber as integer
 
 'Create the nQuartile variable
 Dim nQuartile as integer
 
-
-
 'Create the variables nAccept
-
 Dim nAccept1 as double
-
 Dim nAccept2 as double
-
 Dim nAccept3 as double
-
 Dim nAccept4 as double
 
-
-
 'Create the variable nOutcome
-
 Dim nOutcome as double
 
-
-
 'Create the variable nWinnings
-
 Dim nWinnings as double
 
 'Create the variables nBlockWinnings
-
 Dim nBlockWinnings1 as double
-
 Dim nBlockWinnings2 as double
-
 Dim nBlockWinnings3 as double
-
 Dim nBlockWinnings4 as double
-
 Dim nBlockWinnings5 as double
-
 Dim nBlockWinnings6 as double
-
 Dim nBlockWinnings7 as double
-
 Dim nBlockWinnings8 as double
-
 Dim nBlockWinnings9 as double
-
 Dim nBlockWinnings10 as double
-
 Dim nBlockWinnings11 as double
-
 Dim nBlockWinnings12 as double
-
 Dim nBlockWinnings13 as double
-
 Dim nBlockWinnings14 as double
-
 Dim nBlockWinnings15 as double
-
 Dim nBlockWinnings16 as double
 
 'Create the Condition Winnings Variables
-
 Dim nCondWinnings1 as double
-
 Dim nCondWinnings2 as double
 
 
 
 'Create the variables nTotalWinnings
-
 Dim nTotalWinnings as double
 
-
-
-
 'Create the Response Variable
-
 Dim nResponse as double
 
-
-
 'Create the CorrectDecision Variable
-
 Dim nCorrect as double
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
