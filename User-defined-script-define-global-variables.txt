@@ -40,8 +40,6 @@ Dim nBlockWinnings16 as double
 Dim nCondWinnings1 as double
 Dim nCondWinnings2 as double
 
-
-
 'Create the variables nTotalWinnings
 Dim nTotalWinnings as double
 
