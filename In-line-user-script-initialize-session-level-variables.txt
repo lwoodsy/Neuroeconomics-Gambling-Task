@@ -1,0 +1,65 @@
+'Initialize the nTrialnumber and nQuartile variables
+
+nTrialNumber = 0
+nQuartile = 0
+
+
+
+'Initialize the variables nAccept as 1,2,3,4
+
+nAccept1 = 1
+
+nAccept2 = 2
+
+nAccept3 = 3
+
+nAccept4 = 4
+
+
+
+'Initialize the variable nOutcome as zero
+
+nOutcome = 0
+
+
+
+'Initialize the variable nWinnings as zero
+nWinnings = 0
+
+
+
+'Initialize the variables nBlockWinnings as zero
+
+nBlockWinnings1 = 0
+
+nBlockWinnings2 = 0
+
+nBlockWinnings3 = 0
+
+nBlockWinnings4 = 0
+
+nBlockWinnings5 = 0
+
+nBlockWinnings6 = 0
+
+nBlockWinnings7 = 0
+
+nBlockWinnings8 = 0
+
+
+nBlockWinnings9 = 0
+
+nBlockWinnings10 = 0
+
+nBlockWinnings11 = 0
+
+nBlockWinnings12 = 0
+
+nBlockWinnings13 = 0
+
+nBlockWinnings14 = 0
+
+nBlockWinnings15 = 0
+
+nBlockWinnings16 = 0
+
